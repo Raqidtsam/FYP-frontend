@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840460834051",
+    "project_id": "smart-geo-investment",
+    "storage_bucket": "smart-geo-investment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840460834051:android:2487cda17df9c33be60536",
+        "android_client_info": {
+          "package_name": "com.example.smart_geo_app_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEszK0iA0GcfkCkP_2mkop3wimBm4FvZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
